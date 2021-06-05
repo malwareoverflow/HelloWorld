@@ -1,0 +1,16 @@
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Learning\Jenkins\Test\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
